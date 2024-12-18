@@ -130,5 +130,4 @@ def char_to_number(char):
 
 
 if __name__ == '__main__':
-    # too high 1471238
     main()
