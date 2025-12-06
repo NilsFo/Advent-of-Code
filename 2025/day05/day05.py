@@ -94,5 +94,3 @@ def is_fresh(ranges, ingredient):
 
 if __name__ == '__main__':
     main()
-
-# too high: 352681648086161
